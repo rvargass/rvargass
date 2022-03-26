@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ruan Vargas! 👋
 
 - 🔭 Trabalho com Desenvolvimento Web.
-- 🌱 Estudando ReactJS e JAVA.
+- 🌱 Estudando Spring e Angular.
 
  <div>
   <a href="https://github.com/rvargass">
